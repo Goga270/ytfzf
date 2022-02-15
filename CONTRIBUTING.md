@@ -7,4 +7,4 @@
 
 * Feel free to give yourself a file in the `credits` folder, and add yourself to the table in the README :)
 * Have a nice day, I wish you all!!!!!!!
-
+* Всем хорошего дня желаю вам!!

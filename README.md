@@ -27,6 +27,7 @@
 # Table Of Contents
 
 #Yes, the MIREA student got here, I wish you a good day!!!!
+#Да да ученик МИРЭА сюда добрался, всем хорошего дня!!!)
 
 * [`Dependencies`](#Dependencies)
 * [`Install`](#Install)
