@@ -78,6 +78,8 @@ get_key_value() {
 	unset value
 }
 
+#Функция вывода на экран значения v
+
 Practice1(){
 	v = "dd"
 	printf "%s" "${v%% *}"
