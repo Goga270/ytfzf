@@ -52,7 +52,7 @@ source_scrapers () {
 }
 
 add_commas () {
-	awk '
+	a wk '
 		{
 			for(i=length($1); i>0; i--){
 				if(i % 3 == 0 && i != length($1)){
@@ -76,6 +76,12 @@ get_key_value() {
 	value="${1##* ${2}=}"
 	printf "%s" "${value%% *}"
 	unset value
+}
+
+Practice1(){
+	v = "dd"
+	printf "%s" "${v%% *}"
+	unset v
 }
 
 #capitalizes the first letter of a string
