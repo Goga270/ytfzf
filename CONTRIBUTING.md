@@ -7,4 +7,3 @@
 
 * Feel free to give yourself a file in the `credits` folder, and add yourself to the table in the README :)
 * Всем хорошего дня желаю вам!!
-* ¡Que todos tengan un buen día, les deseo!!
